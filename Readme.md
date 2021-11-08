@@ -12,7 +12,7 @@ https://
 
 
 ##Screenshot
-[!ScreenShot](./assets/images/02-challenge.jpg)
+![ScreenShot](./assets/images/02-challenge.jpg)
 
 ## Contribution
 Made by Chelsea O. Holmstead
