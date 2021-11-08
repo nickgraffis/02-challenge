@@ -8,7 +8,7 @@ A website that provides a summary of the service offerings of my company, Effici
 * CSS
 
 ## Website
-https://
+ https://chelseao86.github.io/02-Challenge/
 
 
 ##Screenshot
