@@ -1,16 +1,20 @@
-# Run Buddy, Inc
+# Portfolio
 
 ## Purpose
-A website that offers fitness training services. 
+A website that provides a summary of the service offerings of my company, Efficienty Yours, and my Portfolio. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://
+
+
+##Screenshot
+![ScreenShot](./assets/images/02-challenge.jpg)
 
 ## Contribution
-Made with ❤️ by [your name]
+Made by Chelsea O. Holmstead
 
-### ©️2019 Run Buddy, Inc 
+### ©️2021 Efficiently Yours, LLC
