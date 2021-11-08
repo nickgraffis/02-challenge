@@ -12,7 +12,7 @@ A website that provides a summary of the service offerings of my company, Effici
 
 
 ##Screenshot
-![ScreenShot](./assets/images/02-challenge.jpg)
+![ScreenShot](./Assets/images/02-challenge.jpg)
 
 ## Contribution
 Made by Chelsea O. Holmstead
